@@ -97,3 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Larger files than 100MB
+Assets/Prefabs/Production Line.prefab
+Assets/Scripts/CIM Conveyor2.fbx
+Assets/{name_conflict}_models/CIMConveyor.fbx
+Assets/Models/CIM Conveyor no stations.fbx

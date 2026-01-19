@@ -1,0 +1,256 @@
+{
+  "stationInfoList": [
+    {
+      "stationId": 1,
+      "description": "Station 1 description",
+      "quiz": {
+        "questions": [
+          {
+            "title": "Question 101",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 0
+          },
+          {
+            "title": "Question 102",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "title": "Question 103",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "title": "Question 104",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 3
+          },
+          {
+            "title": "Question 105",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 4
+          }
+        ]
+      }
+    },
+    {
+      "stationId": 2,
+      "description": "Station 2 description",
+      "quiz": {
+        "questions": [
+          {
+            "title": "Question 201",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 0
+          },
+          {
+            "title": "Question 202",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "title": "Question 203",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "title": "Question 204",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 3
+          },
+          {
+            "title": "Question 205",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 4
+          }
+        ]
+      }
+    },
+    {
+      "stationId": 3,
+      "description": "Station 3 description",
+      "quiz": {
+        "questions": [
+          {
+            "title": "Question 301",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 0
+          },
+          {
+            "title": "Question 302",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "title": "Question 303",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "title": "Question 304",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 3
+          },
+          {
+            "title": "Question 305",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 4
+          }
+        ]
+      }
+    },
+    {
+      "stationId": 4,
+      "description": "Station 4 description",
+      "quiz": {
+        "questions": [
+          {
+            "title": "Question 401",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 0
+          },
+          {
+            "title": "Question 402",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "title": "Question 403",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "title": "Question 404",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 3
+          },
+          {
+            "title": "Question 405",
+            "answers": [
+              "Answer 1",
+              "Answer 2",
+              "Answer 3",
+              "Answer 4",
+              "Answer 5"
+            ],
+            "correctAnswerIndex": 4
+          }
+        ]
+      }
+    }
+  ]
+}

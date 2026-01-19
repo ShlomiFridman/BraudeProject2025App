@@ -1,0 +1,65 @@
+{
+  "title": "PLARA Quiz",
+  "questions": [
+    {
+      "question_id": 1,
+      "title": "What is the primary purpose of the production line in Lab D106?",
+      "answers": [
+        "To produce commercial goods for sale",
+        "To simulate automated material handling and manufacturing processes",
+        "To demonstrate electrical circuit assembly",
+        "To test robotics software for industrial use",
+        "To train students on database management systems"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question_id": 2,
+      "title": "Which station is responsible for manufacturing or milling parts?",
+      "answers": [
+        "Storage",
+        "Review",
+        "Creation",
+        "Assembly",
+        "Transport"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question_id": 3,
+      "title": "What is the main function of the Yaskawa Motoman robotic arm at the Review station?",
+      "answers": [
+        "Transport carts between stations",
+        "Assemble toy components",
+        "Inspect parts for quality using a camera",
+        "Drill holes into rectangular components",
+        "Return finished products to storage"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question_id": 4,
+      "title": "Which arm robot operates at the Assembly station?",
+      "answers": [
+        "SCORBOT-ER V Plus",
+        "Yaskawa Motoman GP8",
+        "BenchMill 6000",
+        "SCORA ER-14",
+        "ASRS 2"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question_id": 5,
+      "title": "What is the role of the QR-CODE TRIG sensors in the production line?",
+      "answers": [
+        "To measure cart speed",
+        "To detect defective parts",
+        "To scan QR codes confirming a cart’s arrival at a station",
+        "To align components during assembly",
+        "To record video footage for review"
+      ],
+      "correctAnswerIndex": 2
+    }
+  ]
+}

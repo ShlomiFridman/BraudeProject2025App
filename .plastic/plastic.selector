@@ -1,0 +1,3 @@
+repository "Prototype2025/Prototype2025@18968262593303@cloud"
+  path "/"
+    smartbranch "/main/dev_shahar"

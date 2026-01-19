@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationStringTableCollection_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2aa462d4cceb194419a8a1ccd96eb46d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15698947977219
+    m_Localized: End Demo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15698947977218
+    m_Localized: Reset Placement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15698947977216
+    m_Localized: Badges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15698943782914
+    m_Localized: Quiz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15698943782913
+    m_Localized: Guides
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15698943782912
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15698947977217
+    m_Localized: Change User
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15698918617088
+    m_Localized: PLACEHOLDER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42565486751744
+    m_Localized: User Details
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42565511917568
+    m_Localized: Username
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42565511917569
+    m_Localized: Group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44716279705600
+    m_Localized: 'Click on the green floor to place the production line
+
+      (You
+      can drag around on the green floor afterwards)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47943880519680
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52565957390336
+    m_Localized: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54524105961472
+    m_Localized: Summary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56676811517952
+    m_Localized: Links
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89943203885056
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544549511016448
+    m_Localized: Previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6911867095592960
+    m_Localized: Reset Demo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7583506913275904
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7584995706646528
+    m_Localized: Connected to server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7585042611548160
+    m_Localized: Disconnected from server
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

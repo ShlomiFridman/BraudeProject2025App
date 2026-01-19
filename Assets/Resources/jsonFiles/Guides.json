@@ -1,0 +1,36 @@
+{
+  "guideDataList": [
+    {
+      "guideId": 101,
+      "title": "Station 1: Storage - ASRS",
+      "title_he": "תחנה 1: אחסון - מערכת ASRS",
+      "imageSpritePath": "Sprites/Station_1",
+      "text": "The Automated Storage Retrieval System (ASRS) 2 simulates a real-world automated warehouse system, allowing students to learn how modern factories manage storage and logistics without manual labor.",
+      "text_he": "מערכת האחסון והשליפה האוטומטית (ASRS) מדמה מערכת מחסן אוטומטית מהעולם האמיתי, ומאפשרת לתלמידים ללמוד כיצד מפעלים מודרניים מנהלים אחסון ולוגיסטיקה ללא עבודה ידנית."
+    },
+    {
+      "guideId": 102,
+      "title": "Station 2: Creation - BenchMill CNC and SCORBOT-ER",
+      "title_he": "תחנה 2: יצירה - BenchMill CNC וזרוע SCORBOT-ER",
+      "imageSpritePath": "Sprites/Station_2",
+      "text": "The BenchMill 6000 is a training Computer Numerical Control (CNC) milling machine used to teach and demonstrate automated precision machining.\n\nThe SCORBOT-ER V Plus is a robotic arm responsible for retrieving the pallet from the cart at the conveyor belt and placing it in the designated working area.",
+      "text_he": "מערכת ה-BenchMill 0006 היא מכונת עיבוד שבבי מבוקרת מחשב (CNC) המיועדת להדגמה והדרכה בתחום עיבוד מדויק אוטומטי.\n\nזרוע ה-SCORBOT-ER V Plus אחראית לאיסוף המשטח מהעגלה שעל מסוע ולהנחתו באזור העבודה המיועד."
+    },
+    {
+      "guideId": 103,
+      "title": "Station 3: Review - Yaskawa Motoman",
+      "title_he": "תחנה 3: בדיקה - Yaskawa Motoman",
+      "imageSpritePath": "Sprites/Station_3",
+      "text": "The review station is operated by a Yaskawa Motoman robotic arm, which transfers each part to the inspection area. There, a moving pallet positions the item under a camera for quality assessment. If the part is marked with an \"X\", it is discarded; if marked with a \"√\" it is returned to the cart within the CIM system.",
+      "text_he": "תחנת הבדיקה מופעלת על ידי זרוע רובוטית מסוג Yaskawa Motoman, המעבירה כל חלק לאזור הבדיקה. שם, משטח נע מציב את הפריט תחת מצלמה לצורך הערכת איכות. אם החלק מסומן ב-X הוא נפסל; אם מסומן ב-V הוא מוחזר לעגלה בתוך מערכת ה-CIM."
+    },
+    {
+      "guideId": 104,
+      "title": "Station 4: Assembly - SCORA ER-14",
+      "title_he": "תחנה 4: הרכבה - SCORA ER-41",
+      "imageSpritePath": "Sprites/Station_4",
+      "text": "The SCORA ER-14 is responsible for completing two distinct assembly plans.\n(I) In the first plan, a cylindrical component is precisely inserted into a rectangular part that features a pre-drilled hole, ensuring a secure and accurate fit. This task requires alignment precision and steady handling.\n(II) The second plan involves assembling a children’s game by placing marbles into a hollow plastic body. Once filled, a cover is positioned on top and secured in place using pins, completing the interactive toy. Both tasks at Station 4 emphasize careful manual assembly and attention to detail to ensure functional and safe final products.",
+      "text_he": "ה-SCORA ER-41 אחראית על ביצוע שני תכניות הרכבה נפרדות.\n(I) בתכנית הראשונה, רכיב גלילי מוכנס בדיוק לתוך חלק מלבני עם חור קידוח קיים, כדי להבטיח התאמה מדויקת ויציבה. פעולה זו דורשת יישור מדויק ושליטה יציבה.\n(II) התכנית השנייה כוללת הרכבת משחק ילדים באמצעות הכנסת כדורים לתוך גוף פלסטיק חלול. לאחר המילוי, מכסה מונח מעל ומקובע באמצעות פינים, ליצירת צעצוע אינטראקטיבי.\n\nשתי המשימות בתחנה 4 מדגישות הרכבה מדויקת ושימת דגש על איכות לביצוע מוצרים תקינים ובטוחים."
+    }
+  ]
+}
